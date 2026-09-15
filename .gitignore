@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+
+# FFmpeg outputs and pass logs
+converted/
+output/
+dist/
+*.ffmpeg2pass-0.log*
+
+# Local one-off batch jobs contain machine-specific paths and media names.
+batch_hyouka.py
+quality_comparison.py
+
+# Bundled local binaries should not be committed accidentally.
+ffmpeg
+ffprobe
+ffmpeg.exe
+ffprobe.exe
+bin/
