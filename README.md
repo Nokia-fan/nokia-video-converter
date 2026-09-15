@@ -1,7 +1,17 @@
 # 诺基亚视频转换器
 
-把常见视频转换成适合诺基亚老手机原生播放器的格式。界面简单、支持批量任务，也允许熟悉编码的用户详细调整。
+**简体中文界面 · 免费开源 · Windows / Linux**
 
+把常见视频转换成适合诺基亚老手机原生播放器的格式。适用于 E72、N95、塞班/S60 等老手机，界面简单、支持批量任务，也允许熟悉编码的用户详细调整。
+
+
+## 中文用户快速入口
+
+- **[⬇ 下载最新版 v1.7（ZIP）](https://github.com/Nokia-fan/nokia-video-converter/archive/refs/tags/v1.7.zip)**
+- [查看 v1.7 中文发布说明](https://github.com/Nokia-fan/nokia-video-converter/releases/tag/v1.7)
+- 下载后先阅读下方“下载与启动”和“三步转换”。软件窗口、功能选项和状态提示均为简体中文。
+
+GitHub 网站的外层按钮可能显示英文：`Code` 是“代码/下载”，`Releases` 是“版本下载”，`Source code (zip)` 是“源码压缩包”。直接使用上面的中文下载链接即可，不必寻找这些英文按钮。
 
 ## 它能解决什么
 
